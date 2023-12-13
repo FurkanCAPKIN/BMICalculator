@@ -1,4 +1,4 @@
-The topics I have learned while working on this project:
+Topics I have learned while working on this project:
 
 1. Classes
 2. UISlider
